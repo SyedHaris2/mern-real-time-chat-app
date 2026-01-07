@@ -5,6 +5,9 @@ A real-time chat application built with the MERN stack (MongoDB, Express, React,
 
 ![image](https://github.com/user-attachments/assets/7f25da31-0b68-4e06-8c12-56492c2b62e1)
 
+
+[Live Demo](https://www.linkedin.com/posts/syed-haris09_softwaredevelopment-fullstackdevelopment-activity-7279863464104202240-Ihpb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADrG1s0BxQ9JhkNPWgMzGp4L5QHPqIs_Zx4)
+
 ## Features
 - User Authentication (JWT and bcrypt.js)
 - Real-Time Messaging with Socket.IO
